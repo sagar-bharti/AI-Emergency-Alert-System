@@ -557,6 +557,10 @@ Example:
 
 ---
 
+## 🎥 Demo
+
+[▶️ Watch Project Demo on YouTube](https://www.youtube.com/shorts/dudfi0H0vHk)
+
 ## 👨‍💻 Author
 
 ### Sagar Bharti
